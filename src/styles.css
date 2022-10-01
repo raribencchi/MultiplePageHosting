@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+    margin-top: 15px;
+   }
+
+h1 {
+    text-align: center;
+    color: rgb(171, 54, 207);
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+p {
+    margin: 15px;
+    text-align: center;
+}
+
+a.primary-link {
+    display: flex;
+    margin-left: 400px;
+    align-items: center;
+  }
+
+   .img {
+    max-width: 90%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+     
